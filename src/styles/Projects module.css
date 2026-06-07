@@ -1,0 +1,40 @@
+.projects {
+  padding: 5rem 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.projectsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.projectCard {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 2rem;
+  border-radius: 10px;
+  transition: transform 0.3s;
+}
+
+.projectCard:hover {
+  transform: translateY(-5px);
+}
+
+.projectCard h3 {
+  margin-bottom: 1rem;
+  color: #00ff88;
+}
+
+.projectLink {
+  display: inline-block;
+  margin: 0.5rem 1rem 0 0;
+  color: #00ff88;
+  text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .projects {
+    padding: 3rem 1rem;
+  }
+}
