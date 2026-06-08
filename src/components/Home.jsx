@@ -36,7 +36,7 @@ const Home = () => {
             >
               Let's chat
             </a>
-            <a href="/Daniel_Adediran_Resume.pdf" download className="inline-flex items-center justify-center rounded-full border border-slate-700 bg-white/90 px-6 py-3 text-sm font-semibold text-slate-900 transition hover:bg-white">
+            <a href="/Daniel_Oluwafikayo_Adediran_Resume.pdf" download className="inline-flex items-center justify-center rounded-full border border-slate-700 bg-white/90 px-6 py-3 text-sm font-semibold text-slate-900 transition hover:bg-white">
               Download Resume
             </a>
           </div>
@@ -52,7 +52,7 @@ const Home = () => {
               <h2 className="text-2xl font-semibold text-white">Daniel Oluwafikayo</h2>
               <p className="text-slate-300">Frontend Developer | Technical Support Specialist</p>
               <div className="mt-3 flex items-center justify-center gap-3">
-                <a href="/Daniel_Oluwafikayo_Resume.pdf" download className="rounded-full bg-sky-500 px-4 py-2 text-sm font-semibold text-slate-950 transition hover:bg-sky-400">
+                <a href="/Daniel_Oluwafikayo_Adediran_Resume.pdf" download className="rounded-full bg-sky-500 px-4 py-2 text-sm font-semibold text-slate-950 transition hover:bg-sky-400">
                   Resume
                 </a>
                 <a href="https://www.linkedin.com/in/oluwafikayo-adediran" target="_blank" rel="noopener noreferrer" className="rounded-full border border-slate-700 px-4 py-2 text-sm text-slate-200 transition hover:border-slate-500 hover:text-white">
