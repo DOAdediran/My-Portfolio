@@ -31,11 +31,10 @@ const Navbar = () => {
             LinkedIn
           </a>
           <a
-            href={`${import.meta.env.BASE_URL}Daniel_Oluwafikayo_Adediran_Resume.pdf`}
-            download
+            href="mailto:doa.adediran@gmail.com?subject=Hiring%20Opportunity"
             className="rounded-full bg-sky-500 px-4 py-2 text-sm font-semibold text-slate-950 transition hover:bg-sky-400"
           >
-            Resume
+            Hire me
           </a>
         </div>
 

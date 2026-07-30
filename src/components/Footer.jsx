@@ -18,7 +18,7 @@ const Footer = () => {
           LinkedIn
         </a>
       </div>
-      <p>© 2026 Adedian Daniel Oluwafikayo. Designed and deployed with React, Tailwind CSS, and Vercel.</p>
+      <p>© 2026 Daniel Oluwafikayo Adediran. Designed and deployed with React, Tailwind CSS, and Vercel.</p>
     </footer>
   )
 }

@@ -1,13 +1,19 @@
-# Adedian Daniel Portfolio
+# Daniel Oluwafikayo Adediran Portfolio
 
-A responsive React portfolio built with Tailwind CSS and deployed on Vercel. This project showcases end-to-end ownership from development through production deployment, with a design system and component architecture suitable for internal tools and documentation portals.
+A responsive React portfolio built with Tailwind CSS and configured for GitHub Pages deployment. This project showcases frontend development, technical support expertise, and polished UI patterns in a clean personal portfolio experience.
 
 ## Tech stack
 
-- React.js
+- React
 - Tailwind CSS
 - Vite
-- Vercel
+- GitHub Pages
+
+## GitHub-ready deployment
+
+This project is structured to work cleanly under the GitHub repository name `My-Portfolio` and the GitHub Pages URL:
+
+- https://doadediran.github.io/My-Portfolio/
 
 ## Available scripts
 

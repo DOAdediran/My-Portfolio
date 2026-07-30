@@ -11,13 +11,13 @@ const About = () => {
         </div>
         <div className="grid gap-10 lg:grid-cols-[1.2fr_0.8fr] lg:items-center">
           <div className="space-y-6 rounded-3xl border border-slate-800 bg-slate-900/80 p-8 shadow-glow">
-            <h2 className="text-3xl font-semibold text-white">I build experiences that scale.</h2>
+            <h2 className="text-3xl font-semibold text-white">I bridge design, development, and user support.</h2>
             <p className="text-slate-300 leading-8">
-              I design and deploy fully responsive portfolio experiences using React and Tailwind CSS.
-              The site brings together structured component architecture, consistent UI patterns, and a clean production flow that is easy to maintain.
+              I build responsive, high-quality web experiences using React and Tailwind CSS while keeping the user journey practical, accessible, and easy to maintain.
+              I enjoy turning ideas into interfaces that feel polished and work reliably across devices.
             </p>
             <p className="text-slate-300 leading-8">
-              My work is transferable to internal support tools, documentation portals, and product-facing web apps where clarity and maintainability matter.
+              My background also includes technical support work, which helps me think clearly about user needs, process flow, and product clarity in real-world environments.
             </p>
           </div>
 

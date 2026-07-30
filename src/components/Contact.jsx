@@ -88,7 +88,7 @@ const Contact = () => {
             type="submit"
             className="inline-flex w-full items-center justify-center rounded-full bg-sky-500 px-6 py-3 text-sm font-semibold text-slate-950 transition hover:bg-sky-400"
           >
-            Send message
+            Let&apos;s work together
           </button>
         </form>
       </div>

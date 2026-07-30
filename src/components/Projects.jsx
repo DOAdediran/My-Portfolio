@@ -4,21 +4,21 @@ const Projects = () => {
   const projects = [
     {
       title: 'SaaS Analytics Dashboard',
-      description: 'A modern SaaS dashboard built with Next.js, TypeScript, and Tailwind CSS, featuring authentication, interactive charts, and user profile management.',
+      description: 'A modern analytics experience built to surface business insights clearly through dashboards, charts, profile management, and clean product UX.',
       technologies: ['Next.js', 'TypeScript', 'Tailwind CSS'],
       demoLink: 'https://doadediran.github.io/SaaS-Dashboard/',
       githubLink: 'https://github.com/DOAdediran/SaaS-Dashboard',
     },
     {
       title: 'Weather Dashboard',
-      description: 'A React and Vite weather dashboard that fetches live data from Open-Meteo and supports city search, theme toggle, and forecast charts.',
+      description: 'A real-time weather interface focused on usability, search flow, and responsive data presentation for everyday user needs.',
       technologies: ['React', 'Vite', 'Tailwind CSS'],
       demoLink: 'https://doadediran.github.io/Weather-App/',
       githubLink: 'https://github.com/DOAdediran/Weather-App',
     },
     {
       title: 'E-Commerce Product Dashboard',
-      description: 'A sleek product management dashboard built with React, Redux Toolkit, and Bolt Database for CRUD, filtering, pagination, and analytics.',
+      description: 'A product management dashboard designed to simplify operations through filtering, pagination, analytics, and structured CRUD workflows.',
       technologies: ['React', 'Redux Toolkit', 'TypeScript'],
       demoLink: 'https://doadediran.github.io/E-CommerceProduct/',
       githubLink: 'https://github.com/DOAdediran/E-CommerceProduct',
